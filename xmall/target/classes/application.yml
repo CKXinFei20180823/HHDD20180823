@@ -1,0 +1,3 @@
+# 配置Tomcat启动端口号
+server:
+  port: 8088
